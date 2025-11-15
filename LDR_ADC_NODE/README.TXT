@@ -1,0 +1,1 @@
+LDR_ADC_NODE
